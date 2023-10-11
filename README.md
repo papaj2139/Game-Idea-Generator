@@ -1,6 +1,5 @@
+# GANE IDEA GENERATOR
 
-
-#Game Idea Generator
 
 This is a simple Python program that generates random game ideas by combining adjectives, nouns, and actions. The program uses tkinter for the graphical user interface and allows users to click a "Generate Idea" button to get creative and entertaining game concepts.
 
